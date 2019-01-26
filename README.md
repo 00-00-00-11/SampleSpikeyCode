@@ -47,6 +47,7 @@ Trix#9553 - code "Auto Changing Status"
 andre#1337 - code "Guildlist"
 andre#1337 - code "Meme"
 andre#1337 - code "Announcement"
+andre#1337 - code "Getinvite"
 ------------------
 
 ```
